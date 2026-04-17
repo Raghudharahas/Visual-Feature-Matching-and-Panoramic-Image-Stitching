@@ -1,5 +1,5 @@
 
-# 📷 ENPM673 Project 2: Video Frame Analysis & Panoramic Image Stitching
+# 📷Visual Feature Matching and Panoramic Image Stitching
 
 ## 🧠 Objective
 
